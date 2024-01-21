@@ -1,4 +1,10 @@
-# Chatbot
+# Chatbox was my main project for CLOUD COMPUTING CAPSTONE CLASS. 
+We presented a solution to a Business Website based on the analysis of the website and the needs of the client. 
+
+We found a Chatbox system compatible and able to easy integrate with AWS Container Service.
+
+I worked on a demo during the the 14 days free trial of the Chatbox website called: 
+
 ##Chatbot project
 
 
