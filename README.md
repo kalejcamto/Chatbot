@@ -3,9 +3,10 @@ We presented a solution to a Business Website based on the analysis of the websi
 
 We found a Chatbox system compatible and able to easy integrate with AWS Container Service.
 
-I worked on a demo during the the 14 days free trial of the Chatbox website called: 
+I worked on a demo during the the 14 days free trial of the Chatbox website called:  https://www.voiceflow.com/
 
 ##Chatbot project
+Note: We used the word Chatbot and chatbox interchangeable. Understanding Chatbox as a fuctional assistant with way more variety of solutions more than answering questions. A Chatbox can book an appointment, collect data, and provide links. 
 
 
 Type of Chatbot "Virtual Assistant"
@@ -72,5 +73,65 @@ Final JSON file to export.
 Importing to AWS container for the use of the website.
 
 ![image](https://github.com/kalejcamto/Chatbot/assets/101201140/db6704f7-2557-4c56-8cca-3dddcb24ec40)
+
+
+THE NAME OF THIS PROJECT WAS SHARK BOT. 
+My team and I built a presentation and introduced the solution to stakeholders who loved the proposal and looked forward to getting ready to prepare their database to start building their chatbox assistant. 
+
+I am going to add below the screenshots of the presentation from my team of Students of the Solutions Architect program. 
+
+![image](https://github.com/kalejcamto/Chatbot/assets/101201140/62ad6ebd-c2b3-45be-8a28-a933a7243dab)
+
+![image](https://github.com/kalejcamto/Chatbot/assets/101201140/57533e6d-b24d-487b-b7c9-fae83c4eb875)
+
+BACKEND 
+![image](https://github.com/kalejcamto/Chatbot/assets/101201140/a08d2c35-013e-49c3-9471-987e74f7b05b)
+
+![image](https://github.com/kalejcamto/Chatbot/assets/101201140/993b8628-5341-465b-9a18-b1f69ac83096)
+
+![image](https://github.com/kalejcamto/Chatbot/assets/101201140/762d5221-a564-4e46-ba08-f110f14881f5)
+
+![image](https://github.com/kalejcamto/Chatbot/assets/101201140/f9bade3f-f00e-4006-8eed-5be46b239129)
+
+![image](https://github.com/kalejcamto/Chatbot/assets/101201140/d2e251b4-acbc-422d-8708-22a5cb547537)
+
+![image](https://github.com/kalejcamto/Chatbot/assets/101201140/e7914060-43d8-4a29-ad29-690ba7a24856)
+
+![image](https://github.com/kalejcamto/Chatbot/assets/101201140/2f641ef1-afa1-49c2-adb1-7ecf0349a37b)
+
+![image](https://github.com/kalejcamto/Chatbot/assets/101201140/d3a549d0-228f-4986-a719-c721939da904)
+
+![image](https://github.com/kalejcamto/Chatbot/assets/101201140/b68625b9-3da9-4d9b-9884-3680972154a3)
+
+![image](https://github.com/kalejcamto/Chatbot/assets/101201140/c285c4df-d4fa-4ae4-961a-c7d0be4d030b)
+
+![image](https://github.com/kalejcamto/Chatbot/assets/101201140/b17a66f8-eb5e-45bb-8975-9584517a1ad3)
+
+![image](https://github.com/kalejcamto/Chatbot/assets/101201140/2556706c-b486-4565-bfd5-e8625a7146e3)
+
+
+## Final remarks, Our team name is Cloud Shark and that is why we decided to call our Chatbot SharkBot. I enjoyed and learned a lot during the creation process of this solution. I developed project management skills, along with business and cloud solutions critical thinking.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
