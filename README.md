@@ -1,11 +1,16 @@
 # Chatbox was my project for CLOUD COMPUTING CAPSTONE CLASS. 
 We presented a solution to a Business Website based on the analysis of the website and the needs of the client. 
 
+TriveraTech is a successful online company that specializes in technology education and training, both online and in corporate settings. Taking on the role of project management leader, I worked closely with my team to develop and train a chatbot using VoiceFlow's 14-day trial. The chatbot was designed to serve as a customer service and sales representative on their website. 
+
+Within a few days, I successfully trained the chatbot to provide accurate responses to various customer inquiries. On the presentation day, I showcased the chatbot as a proof of concept to the stakeholders. During the presentation, I emphasized how the chatbot would not only captivate website visitors but also integrate their experience by offering fast searches and suggestions, click-to-action features, and efficient collection of user contact information. The chatbot could even offer customized searches and promotions to logged-in members by connecting to their database server. This innovative solution had the potential to reduce help desk and customer service calls while improving the overall user experience. Stakeholders loved this idea and were open to its implementation.
+
+
 We found a Chatbox system compatible and able to easy integrate with AWS Container Service.
 
 I worked on a demo during the the 14 days free trial of the Chatbox website called:  https://www.voiceflow.com/
 
-##Chatbot project
+## Chatbot project
 Note: We used the word Chatbot and chatbox interchangeable. Understanding Chatbox as a fuctional assistant with way more variety of solutions more than answering questions. A Chatbox can book an appointment, collect data, and provide links. 
 
 
